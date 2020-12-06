@@ -1,5 +1,7 @@
 # Saudi Aramco Data Technathon - 2020
-This project is related to recovery of a 3D geological data from 2D slices
+Recovery of a 3D geological data from 2D slices by Alexey Boyko and Daria Fokina.
+
+## User Manual and Authors' comments
 
 1) all porous data .npy files should be stored in the ```/data``` folder.
 
