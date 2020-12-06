@@ -3,7 +3,7 @@ shopt -s nullglob
 
 npy_data_path="~/Documents/DISK2TB/SaudiAramco/results_fourier"
 npy_data_path='.'
-solver_data_path="~/Documents/DISK2TB/SaudiAramco/3D_geoproject/elas3d_linux"
+solver_data_path="../elas3d_linux"
 
 #FILES="${npy_data_path}*.npy"
 
