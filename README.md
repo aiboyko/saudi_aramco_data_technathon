@@ -14,7 +14,9 @@ For float arrays please note that  ```.round()``` operator is applied in the end
 
 3) We did an extensive architecture search among subtypes of the Fourier-features neural network. Results are stored in the ```fourier_results.csv```.
 
-4) The code and an example of a relatively good recovery can be found in the ```fourier_to_show_nice_pictures.ipynb```. In it, there is a button with a link to run it on Colab.
-Some data paths may need to be changed to actually find the data on your computer (or Colab)
+4) The code and an example of a relatively good recovery from 4 slices per dimension can be found in the ```fourier_to_show_nice_pictures.ipynb```. In it, there is a button with a link to run it on Colab. Some data paths may need to be changed to actually find the data on your computer (or Colab)
+
+We also introduced porosity matching procedure, which adaptively selects threshold such that it matches the training data, and did second (more narrow) ablation studies. Results can be found in the ```results2.csv```
+
 
 5) Since without a supercomputer any properly thorough ablation studies are impossible on resolutions higher than around ```128^3```, we did in on a downscaled data. Because it is a Neural model, some peculiarities (such as learning rate) may be changed depending on the resolution. But the automatino pipeline should help you discover that if you have access to a cluster.
