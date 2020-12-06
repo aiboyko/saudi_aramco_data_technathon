@@ -1,0 +1,91 @@
+
+============================================
+#######                       #####  ######
+#       #        ##    ####  #     # #     #
+#       #       #  #  #            # #     #
+#####   #      #    #  ####   #####  #     #
+#       #      ######      #       # #     #
+#       #      #    # #    # #     # #     #
+####### ###### #    #  ####   #####  ######
+============================================
+
+
+INITIALIZING WITH ./current_elas.PAM
+Filename		current_rock.dat
+Size			132 132 132 
+Convergance		1E-05
+Headers			0
+Write stress		False
+Number of phases	2
+Density			1 2.65 
+Bulk modulus		2 36.6 
+Shear modulus		0 44 
+Applied strain		0.001 0.001 0.001 0.002 0.004 0.006 
+
+SOLVER
+Step: 0 	 Convergence: 30251.787 	 Goal: 22.99968 	 Energy: 1767.8948
+Step: 1 	 Convergence: 27777.877 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.746
+Step: 2 	 Convergence: 22630.873 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.811
+Step: 3 	 Convergence: 16571.82 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 6.05
+Step: 4 	 Convergence: 12337.403 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.945
+Step: 5 	 Convergence: 9547.471 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.928
+Step: 6 	 Convergence: 7381.886 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.877
+Step: 7 	 Convergence: 5861.6333 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.74
+Step: 8 	 Convergence: 4859.77 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.76
+Step: 9 	 Convergence: 3875.798 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.748
+Step: 10 	 Convergence: 3217.0127 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.745
+Step: 11 	 Convergence: 2695.8555 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.735
+Step: 12 	 Convergence: 2278.9124 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.749
+Step: 13 	 Convergence: 1975.8954 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.716
+Step: 14 	 Convergence: 1732.328 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.71
+Step: 15 	 Convergence: 1511.0868 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.711
+Step: 16 	 Convergence: 1304.103 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.741
+Step: 17 	 Convergence: 1137.483 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.711
+Step: 18 	 Convergence: 1016.44885 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.692
+Step: 19 	 Convergence: 917.7142 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.701
+Step: 20 	 Convergence: 827.0781 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.697
+Step: 21 	 Convergence: 737.73517 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.837
+Step: 22 	 Convergence: 653.86896 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.711
+Step: 23 	 Convergence: 584.2126 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.741
+Step: 24 	 Convergence: 527.99963 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.775
+Step: 25 	 Convergence: 482.74075 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.765
+Step: 26 	 Convergence: 438.21933 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.711
+Step: 27 	 Convergence: 396.8225 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.786
+Step: 28 	 Convergence: 360.90582 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.798
+Step: 29 	 Convergence: 330.24878 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.793
+Step: 30 	 Convergence: 303.9146 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.728
+Step: 31 	 Convergence: 280.16455 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.701
+Step: 32 	 Convergence: 258.4756 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.708
+Step: 33 	 Convergence: 237.78119 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.705
+Step: 34 	 Convergence: 218.69907 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.725
+Step: 35 	 Convergence: 202.09256 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.741
+Step: 36 	 Convergence: 187.2989 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.717
+Step: 37 	 Convergence: 173.14267 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.744
+Step: 38 	 Convergence: 159.73807 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.712
+Step: 39 	 Convergence: 146.98491 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.706
+Step: 40 	 Convergence: 136.05948 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.749
+Step: 41 	 Convergence: 126.53141 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.701
+Step: 42 	 Convergence: 118.51629 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.702
+Step: 43 	 Convergence: 110.5896 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.757
+Step: 44 	 Convergence: 102.72552 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.802
+Step: 45 	 Convergence: 95.45302 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.709
+Step: 46 	 Convergence: 88.84624 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.716
+Step: 47 	 Convergence: 83.0195 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.726
+Step: 48 	 Convergence: 77.44625 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.696
+Step: 49 	 Convergence: 72.18093 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.705
+Step: 50 	 Convergence: 67.47268 	 Goal: 22.99968 	 Energy: NotNeeded 	 TimeTaken: 5.719
+Step: 51 	 Convergence: 67.47268 	 Goal: 22.99968 	 Energy: 732.779 	 TimeTaken: 5.719
+
+RESULTS
+Stress: 4.884155E-002, 4.967983E-002, 4.953605E-002, 2.851145E-002, 5.722839E-002, 8.725633E-002
+Strain: 1.000024E-003, 9.999954E-004, 1.000024E-003, 2.000028E-003, 3.999971E-003, 5.999620E-003
+
+PROPERTIES
+Bulk modulus 		16.450583
+Shear modulus 		14.36879
+Density 		2.0828614
+Porosity 		0.34372044
+Compressional velocity 	4.1347523
+Shear velocity 		2.6265152
+Young modulus 		33.386013
+Poisson ratio 		0.1617545
