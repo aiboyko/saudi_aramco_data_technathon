@@ -1,9 +1,0 @@
-rock1.dat                    
-120 120 120                          : nx, ny, nz
-1.0e-5                               : Conv criteria
-0                                    : No.of line of Headers(usually 0)
-0                          	         : Write Stress (0=no;1=yes)                
-2                          	         : No of Phase 
-2 0 1                                : K,mu,density (phase 0 - Brine) 
-36.6 44.0 2.65                       : K,mu,density (phase 1 - Quartz)
-0.001 0.001 0.001 0.002 0.004 0.006  : Applied strain (engineering)
