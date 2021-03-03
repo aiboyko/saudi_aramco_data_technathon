@@ -1,4 +1,4 @@
-# Saudi Aramco Data Technathon - 2020
+# This code is the Bronze winner of the Saudi Aramco Innovations Data Technathon - 2020
 Recovery of a 3D geological data from 2D slices by Alexey Boyko and Daria Fokina.
 
 ## User Manual and Authors' comments
